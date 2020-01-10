@@ -1,0 +1,19 @@
+.aboutMe {
+    
+    width: 75%;
+}
+
+.myPic {
+    border-radius: 50%;
+    float: left;
+    width: 200px;
+    height: auto;
+    shape-outside: circle();
+    margin: 15px;
+   
+ }
+
+ .header {
+     margin-left: 15px;
+     color: #039696;
+ }

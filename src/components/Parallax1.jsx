@@ -24,9 +24,7 @@ class Parallax1 extends Component {
                     <div class="parallax"><img src={image} alt="firstImage" /></div>
                 </div>
                 <div>
-                    <p>
-                        About me section
-                    </p>
+
                 </div>
 
 
