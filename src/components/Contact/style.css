@@ -1,0 +1,42 @@
+.fa-linkedin {
+    background-color: #039696;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 35px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+
+.fa-file {
+    background-color: #039696;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 35px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+.fa-github {
+    
+    background-color: #039696;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 35px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+.header {
+    margin-left: 15px;
+     color: #039696;
+}
