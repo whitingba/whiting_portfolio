@@ -1,16 +1,27 @@
 .card {
-    width: 350px;
+    /* width: 350px;
     height: 350px;
       border: 6px solid white;
       box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-      margin: 30px;
+      margin: 30px; */
+      display: block;
+      border-radius: 2px 2px 0 0;
+      position: relative;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 100%;
         }
 
-/* .card-image {
-  width: 100%;
+img {
+  width: 350px;
+  height: 275px;
 }
 
-.cardDiv {
-    display: inline-flex;
-} */
+.header {
+  margin-left: 15px;
+     color: #29b6f6;
+}
+
 
