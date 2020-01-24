@@ -2,13 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # My Portfolio
 
-In the project directory, you can run:
 
 ### `Background`
 During the Coding Bootcamp at DU we were asked multiple times to re-create a new portfolio website implementing different things we learned as we went along.
 Post-graduation I decided to create it one more time, but this time implementing what I learned in React. 
 
-### `npm start`
+### In the project directory, you can run: `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
