@@ -25,6 +25,7 @@ Visit: http://barbarawhiting.net
 * React-parallax for a working parallax
 * Materialize for Collapsing Navbar
 * cPanel for hosting 
+* 99inbound.com for a working contact me form
 
 
 ### `Author`
