@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Visit: http://barbarawhiting.net
 `npm run-script build` was used to build the app for production
 
-### Technologies Used
+### `Technologies Used`
 * React
 * Node.js
 * Javascript
@@ -28,6 +28,6 @@ Visit: http://barbarawhiting.net
 * cPanel for hosting 
 
 
-### Author
+### `Author`
 Barbara Whiting
 
