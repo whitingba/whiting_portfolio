@@ -16,27 +16,15 @@ class Parallax1 extends Component {
 
         return (
             <div>
-                {/* -----basic config-----*/}
-                {/* <Parallax
-                    blur={0}
-                    bgImage={image}
-                    bgImageAlt="the cat"
-                    strength={200}
-                >
 
-                    <div style={{ height: '600px' }} />
-                </Parallax> */}
-
-
-                {/* -----dynamic blur-----*/}
                 <Parallax
                     blur={{ min: -15, max: 15 }}
                     bgImage={image}
                     bgImageAlt="the dog"
                     strength={-200}
                 >
-                    Blur transition from min to max
-            <div style={{ height: '500px' }} />
+
+                    <div style={{ height: '500px' }} />
                 </Parallax>
 
             </div>

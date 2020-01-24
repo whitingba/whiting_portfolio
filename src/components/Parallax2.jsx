@@ -16,8 +16,8 @@ class Parallax2 extends Component {
                     bgImageAlt="the dog"
                     strength={-200}
                 >
-                    Blur transition from min to max
-            <div style={{ height: '500px' }} />
+
+                    <div style={{ height: '500px' }} />
                 </Parallax>
 
             </div>
