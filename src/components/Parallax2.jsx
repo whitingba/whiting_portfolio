@@ -13,11 +13,11 @@ class Parallax2 extends Component {
                 <Parallax
                     blur={{ min: -15, max: 15 }}
                     bgImage={image2}
-                    bgImageAlt="the dog"
-                    strength={-200}
+                    bgImageAlt="the octopus"
+                    strength={-250}
                 >
 
-                    <div style={{ height: '500px' }} />
+                    <div style={{ height: '450px' }} />
                 </Parallax>
 
             </div>
