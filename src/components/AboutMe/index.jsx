@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import myImage from '/Users/Barbara/Documents/portfolio/whiting_portfolio/src/assets/images/MyPic3.jpg';
+import myImage from '/Users/Barbara/Documents/portfolio/whiting_portfolio/src/assets/images/IMG_0509a.jpg';
 
 const index = () => {
     return (
